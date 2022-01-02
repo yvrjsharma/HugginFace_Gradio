@@ -1,4 +1,6 @@
 # How To Deploy Your Machine Learning Models Online Using Huggingface & Gradio Powered Spaces
+
+
 ![](/images/gradioapp3.jpg)
 
 ## Inspiration 
@@ -10,12 +12,12 @@ In this article I'll try and explain how I build this fun app and how you can bu
 
 
 ## Table of Content
-1. HuggingFace introduction
-2. Gradio introducttion
-3. What I built
-4. How I built it
-5. How you can access the app
-6. Conclusion
+#### 1. HuggingFace introduction
+#### 2. Gradio introducttion
+#### 3. What I built
+#### 4. How I built it
+#### 5. How you can access the app
+#### 6. Conclusion
 
 
 
@@ -62,11 +64,13 @@ Few points to keep in mind for an easy passage while building a complex Gradio a
 * This apps *app.py* code can help you take an inspiration in case you want to have multiple and different type of inputs and outputs (image/text/radio box *etc.*). It took me a while to figure out the right way. 
 
 ## Awesome Community
-At the end of the day a strong community support helps you in learning about cool new avenues, uderstanding hard concepts, in resolving your issues, and in staying motivated to improve yourself and your skills. Among many incredible folks out there building for community, I would like to take a moment and thanks a few of them for all the efforts they put in. Reach out to them on Twitter and Discord here -- 
+At the end of the day a strong community support helps you in learning about cool new avenues, uderstanding hard concepts, in resolving your issues, and in staying motivated to improve yourself and your skills. 
 
-* [Abubakar Abid](https://twitter.com/abidlabs), [Ali](https://twitter.com/si3luwa),[AK](https://twitter.com/ak92501) of Gradio labs
-* [Merve Noyan](https://twitter.com/mervenoyann), [Omar](https://twitter.com/osanseviero) from HuggingFace
-* [HuggingFace Discord community](http://hf.co/join/discord)
+There are many incredible folks out there building and helping ML communities day in day out. I would like to take a moment and specially thank a few folks for all the efforts that they put in daily. A lot of effort goes in replying to call outs for help, in writing easy to follow blogs, in inspiring other by showcasing their own ML work and in doing everything that they do to put themselves out there. Reach out to them on Twitter and Discord over here -- 
+
+* [Abubakar Abid](https://twitter.com/abidlabs), [Ali](https://twitter.com/si3luwa), and [AK](https://twitter.com/ak92501) of Gradio labs
+* [Merve Noyan](https://twitter.com/mervenoyann) and [Omar](https://twitter.com/osanseviero) from HuggingFace
+* Everyone who is active on [HuggingFace Discord community](http://hf.co/join/discord)
 
 ## Future work
 The app is still a bit rough on the edges and I plan to improve it in future interations, for example, right now it might not process well certain screenshots and those images in which the text is slanted a bit. Planning to enable OCR for slant text and for images in which text is present at multiple places. I will also be adding more languages to the mix. And lastly would be trying to insert the translated text at the same spot as the original image and in similar font style and font size.
@@ -77,7 +81,7 @@ Gradio helps in bridging the gap between developing your ML models and showcasin
 
 My github repo and code can be accessed over here - [HugginFace_Gradio](https://github.com/yvrjsharma/HugginFace_Gradio/blob/main/Whatsapp_Image_Forwards_In_Your_Language_GradioDemo.ipynb).
 
-*If you enjoyed this article, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yuvraj-sharma-a7154628/) or [Twitter](https://twitter.com/yvrjsharma) and do share your feedback and any other ML app ideas that you would want to implement yourself, I will be happy to help as much as I can*
+*If you enjoyed this article, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yuvraj-sharma-a7154628/) or [Twitter](https://twitter.com/yvrjsharma) and do share your feedback and any other ML app ideas that you would want to implement yourself, I will be happy to help as much as I can.*
 
 
 Image source - Photo by <a href="https://unsplash.com/@rev3n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michał Kubalczyk</a> on <a href="https://unsplash.com/s/photos/tech?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
